@@ -1,6 +1,11 @@
 # 🚀 Android MVI Architecture Pattern with MviStateStore
 
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=q40BGa5N_GM)
+[![Channel](https://img.shields.io/badge/YouTube-StudyInPark-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/@studyinpark)
+
 A clean, modern Android repository demonstrating **Model-View-Intent (MVI)** architecture built with **Jetpack Compose**, **Kotlin Coroutines / Flow**, and a centralized **`MviStateStore`**.
+
+🎥 **Watch Full Video Tutorial on YouTube**: [Android MVI Architecture Pattern with MviStateStore](https://www.youtube.com/watch?v=q40BGa5N_GM)
 
 This project also includes an interactive side-by-side comparison between **MVVM** and **MVI** flows.
 
